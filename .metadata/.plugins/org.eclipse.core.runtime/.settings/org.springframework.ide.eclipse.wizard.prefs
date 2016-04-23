@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PopularityTracker.web=3
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.artifactId=socialbooks
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.bootVersion=1.3.3.RELEASE
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.description=API Social para Livros
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.groupId=com.algaworks.socialbooks
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.language=java
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.name=socialbooks
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.packageName=com.algaworks.socialbooks
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.version=1.0.0-SNAPSHOT
